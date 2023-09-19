@@ -11,8 +11,8 @@ This is a solution to the Product preview card component challenge on Frontend M
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/kasaparz/FrontendMentor_1.Responsive-Product-Card
+- Live Site URL: https://kasaparz.github.io/FrontendMentor_1.Responsive-Product-Card/
 
 ### Built with
 
